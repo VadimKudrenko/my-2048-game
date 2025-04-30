@@ -28,9 +28,9 @@ Follow these instructions to run the project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/VadimKudrenko/museum-namu-landing.git
+git clone https://github.com/VadimKudrenko/my-2048-game.git
 
-cd museum-namu-landing
+cd my-2048-game
 
 # Using VSCode with Live Server:
 code .
