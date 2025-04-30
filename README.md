@@ -21,3 +21,36 @@
 - **Fully Functional Grid System**: Dynamic rendering of the 4×4 board
 - **Keyboard Controls**: Intuitive arrow-key navigation
 - **Practical Focus**: Built without animations to maintain a clear focus on logic and DOM operations
+
+## 🚀 Getting Started
+
+Follow these instructions to run the project locally:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/VadimKudrenko/museum-namu-landing.git
+
+cd museum-namu-landing
+
+# Using VSCode with Live Server:
+code .
+# Then click "Go Live"
+
+# Or open manually:
+open index.html
+# (or double-click the file in your file explorer)
+```
+
+### 2.Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3.Run the project locally:
+```bash
+npm start
+# or
+yarn start
+```
