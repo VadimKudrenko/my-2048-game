@@ -18,7 +18,6 @@
 
 ## ✨ Features
 - **Classic 2048 Mechanics**: All standard features of the original game (merge, move, score counting, win/loss conditions)
-- **Fully Functional Grid System**: Dynamic rendering of the 4×4 board via DOM manipulation
+- **Fully Functional Grid System**: Dynamic rendering of the 4×4 board
 - **Keyboard Controls**: Intuitive arrow-key navigation
-- **Responsive Layout**: Grid scales to screen size for basic desktop and mobile compatibility
 - **Practical Focus**: Built without animations to maintain a clear focus on logic and DOM operations
